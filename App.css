@@ -1,0 +1,9 @@
+.App {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: wheat;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

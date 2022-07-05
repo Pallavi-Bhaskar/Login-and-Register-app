@@ -1,0 +1,33 @@
+.login {
+  width: 400px;
+  background: wheat;
+  border: 1px solid whitesmoke;
+  box-shadow: 0 2px 4px bisque;
+  border-radius: 8px;
+  padding: 1rem;
+  align-items: center;
+  text-align: center;
+}
+
+.login input {
+  border-radius: 8px;
+  border: 2px solid bisque;
+  outline: none;
+  color: black;
+  margin: 0.5rem 0;
+  padding: 0.5rem 0.75rem;
+  width: 92%;
+  font-size: 1rem;
+}
+
+.login button {
+  background: blue;
+  border: 1px solid blue;
+  color: aliceblue;
+  font-size: 1.25rem;
+  padding: 0.5rem;
+  margin: 0.5rem;
+  border-radius: 8px;
+  outline: none;
+  cursor: pointer;
+}
